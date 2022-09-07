@@ -13,6 +13,18 @@
     padding: 0;
     margin: 0;
 }
+
+.menu-titulos{
+    color: white;
+}
+
+.menu{
+    background: url('../../imagens/fundo.png');
+    height: 450px;
+    background-repeat: no-repeat;
+
+}
+
 .menu, .botao{
     display: flex;
     flex-direction: column;
