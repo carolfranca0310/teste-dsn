@@ -1,0 +1,21 @@
+.principal{
+    display: inline-block;
+    flex-direction: row;
+}
+
+.produtos-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    width: 250px;
+    margin: 35px; 
+}
+
+.box-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+

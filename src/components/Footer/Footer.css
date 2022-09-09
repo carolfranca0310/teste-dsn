@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8E2377;
+}
+
+.rodape{
+    color: aliceblue;
+    margin: 20px;
+}
